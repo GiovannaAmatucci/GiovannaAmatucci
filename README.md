@@ -1,22 +1,17 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/carolbarbosa101/carolbarbosa101/main/header.gif" alt="Header animado com 'Olá, mundo!' e código" width="800"/>
-</div>
-<br>
+
 
 <div align="center">
-  <h1>👋 Olá! Eu me chamo Giovanna </h1>
+  <h1>👋 Olá! Eu sou a Giovanna </h1>
   <p>
     Desenvolvedora Android nativa 🇧🇷
     <br>
-    Apaixonada por criar apps robustos e bonitos com Arquitetura Limpa, Kotlin e Jetpack Compose.
-    <br>
-    Atualmente a construir o <strong>FoodBook</strong>, um app de receitas completo!
-  </p>
+    <p></p>
   
-  <a href="https://github.com/GiovannaAmatucci">
+  
+  <a href="https://www.linkedin.com/in/giovanna-amatucci2001/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:[SEU_EMAIL_AQUI]">
+  <a href="giovannaamatucci@hotmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
@@ -26,6 +21,7 @@
   <h2>🚀 Minha Stack Atual</h2>
   <p>
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+    <img src="https://img.shields.io/badge/Kotlin_Multiplatform-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform"/>
     <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/>
     <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
     <img src="https://img.shields.io/badge/Koin-7289DA?style=for-the-badge&logo=koin&logoColor=white" alt="Koin"/>
@@ -48,5 +44,5 @@
 <div align="center">
   <h2>🐍 Meu Gráfico de Contribuição</h2>
   
-  <img src="https://github.com/GiovannaAmatucci/GiovannaAmatucci/blob/main/github-contribution-grid-snake.svg" alt="Snake Contribution Grid"/>
+  <img src="github-contribution-grid-snake.svg" alt="Snake Contribution Grid"/>
 </div>
