@@ -1,0 +1,36 @@
+
+
+name: Generate Contribution Snake
+
+on:
+  # Faz o robô correr a cada 6 horas
+  schedule:
+    - cron: "0 */6 * * *"
+  
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Pega o código do seu repositório
+      - uses: actions/checkout@v3
+
+      # 2. Gera a imagem da "snake"
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: GiovannaAmatucci
+          
+        
+          outputs: github-contribution-grid-snake.svg
+
+      - name: Commit snake file
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add github-contribution-grid-snake.svg
+          # Faz o commit apenas se a imagem tiver mudado
+          git commit -m "chore: update contribution snake" || exit 0
+          git push
