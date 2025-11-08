@@ -3,7 +3,7 @@
 <div align="center">
   <h1>👋 Olá! Eu sou a Giovanna </h1>
   <p>
-    Desenvolvedora Android nativa 🇧🇷
+    Desenvolvedora Android Nativa 🇧🇷
     <br>
     <p></p>
   
@@ -11,8 +11,6 @@
   <a href="https://www.linkedin.com/in/giovanna-amatucci2001/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="giovannaamatucci@hotmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
 <br>
