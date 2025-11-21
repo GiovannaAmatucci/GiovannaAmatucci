@@ -1,50 +1,53 @@
-
-
 <div align="center">
-  <h1>👋 Olá! Eu sou a Giovanna </h1>
-  <p>
-    Desenvolvedora Android Nativa 🇧🇷
+  
+  <div align="right">
+    <img src="https://raw.githubusercontent.com/GiovannaAmatucci/GiovannaAmatucci/main/assets/android-gif%20(1).gif" width="100" alt="Nyan Android"/>
+  </div>
+
+  <h1 align="center" style="margin-top: -90px;">
+    Hi, I'm Giovanna! 👋
+  </h1>
+
+  <p style="font-size: 1.2em; color: #8b949e;">
+    <b>Android Software Engineer</b>
     <br>
-    <p></p>
-  
-  
-  <a href="https://www.linkedin.com/in/giovanna-amatucci2001/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  </a>
-</div>
-<br>
-
-<div align="center">
-  <h2>🚀 Minha Stack Atual</h2>
-  <p>
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-    <img src="https://img.shields.io/badge/Kotlin_Multiplatform-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform"/>
-    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/>
-    <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
-    <img src="https://img.shields.io/badge/Koin-7289DA?style=for-the-badge&logo=koin&logoColor=white" alt="Koin"/>
-    <img src="https://img.shields.io/badge/Room-FF6B32?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room"/>
-    <img src="https://img.shields.io/badge/Paging_3-F89820?style=for-the-badge&logo=android&logoColor=white" alt="Paging 3"/>
-    <img src="https://img.shields.io/badge/Ktor-0077B5?style=for-the-badge&logo=ktor&logoColor=white" alt="Ktor"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    📍 Based in Brazil 🇧🇷
   </p>
-</div>
-<br>
 
-<div align="center">
-  <h2>📈 Minhas Estatísticas</h2>
+  <br>
+
+  <p width="600px" style="max-width: 600px;">
+    Crafting pixel-perfect, scalable, and high-performance native Android applications.<br>
+    Specialized in <b>Kotlin</b>, <b>Jetpack Compose</b>, <b>KMP</b> and <b>Clean Architecture</b>.
+  </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/giovanna-amatucci2001/">
+      <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+  </p>
+
+  <br>
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiovannaAmatucci&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannaAmatucci&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<br>
+  <br><br>
 
-<div align="center">
-  <h2>🐍 Meu Gráfico de Contribuição</h2>
+  <h3 style="margin-bottom: 15px;">🛠️ Creative Tech Stack</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,idea,git,githubactions,figma&theme=dark&perline=7" />
+  </a>
+
+  <br><br><br>
+
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=GiovannaAmatucci&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" height="170" alt="Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannaAmatucci&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&langs_count=6" height="170" alt="Languages" />
+  </div>
+
+  <br>
+
+  <h3 style="margin-bottom: 15px;">🐍 Contribution Graph</h3>
+  <img src="github-contribution-grid-snake.svg" width="100%" alt="Snake Contribution Grid"/>
   
-  <img src="github-contribution-grid-snake.svg" alt="Snake Contribution Grid"/>
-</div>
-
-
-
-
+  <br><br>
