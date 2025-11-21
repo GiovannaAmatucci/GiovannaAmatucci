@@ -18,7 +18,7 @@
 
   <p width="600px" style="max-width: 600px;">
     Crafting pixel-perfect, scalable, and high-performance native Android applications.<br>
-    Specialized in <b>Kotlin</b>, <b>Jetpack Compose</b>, <b>KMP</b> and <b>Clean Architecture</b>.
+    Specialized in <b>Kotlin</b>, <b>Jetpack Compose</b>, <b>KMP</b> and <b>MVVM</b>.
   </p>
 
   <p>
