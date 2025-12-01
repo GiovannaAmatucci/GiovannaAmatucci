@@ -1,31 +1,52 @@
 <div align="center">
-  
-  <div align="right">
-    <img src="https://raw.githubusercontent.com/GiovannaAmatucci/GiovannaAmatucci/main/assets/android-gif%20(1).gif" width="100" alt="Nyan Android"/>
-  </div>
 
-  <h1 align="center" style="margin-top: -90px;">
-    Hi, I'm Giovanna! 👋
-  </h1>
-
-  <p style="font-size: 1.2em; color: #8b949e;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=d570d1&center=true&vCenter=true&width=435&lines=Hello,+I'm+Giovanna!" alt="Typing SVG" />
+  </a>
+    
+  <p style="font-size: 1.3em; color: #ff986e; margin-bottom: 5px;">
     <b>Android Software Engineer</b>
-    <br>
-    📍 Based in Brazil 🇧🇷
   </p>
-
-  <br>
-
-  <p width="600px" style="max-width: 600px;">
-    Crafting pixel-perfect, scalable, and high-performance native Android applications.<br>
-    Specialized in <b>Kotlin</b>, <b>Jetpack Compose</b>, <b>KMP</b> and <b>Clean Arch</b>.
+  
+  <p style="color: #8b949e; margin-top: 0;">
+    📍 Based in Brazil 🇧🇷
   </p>
 
   <p>
     <a href="https://www.linkedin.com/in/giovanna-amatucci2001/">
-      <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Connect_on_LinkedIn-be59bb?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
   </p>
+    
+  <p style="max-width: 600px; line-height: 1.8; margin-top: 15px;">
+    Driving mobile innovation through <b>Scalable Architecture</b> and <b>High-Performance Engineering</b>.
+    <br>
+    I build robust solutions focusing on:
+    <br><br>
+    <code style="color: #ff986e;">🧩 Modularization</code> &nbsp;|&nbsp; 
+    <code style="color: #ff986e;">⚡ Performance</code> &nbsp;|&nbsp; 
+    <code style="color: #ff986e;">🛡️ Code Quality</code>
+    <br><br>&nbsp; 
+    <b>Kotlin</b> • <b>Compose</b> • <b>KMP</b> • <b>Clean Arch</b>
+  </p>
+
+  <br>
+
+  <div style="width: 100%; max-width: 600px;">
+    <details>
+      <summary style="cursor: pointer; color: #ff986e; font-weight: bold; font-size: 1.1em;">
+        ⚡ Tap to see my Dev Setup & Tools
+      </summary>
+      <br>
+      <p align="center" style="color: #8b949e;">
+        💻 <b>IDE:</b> Android Studio Ladybug & IntelliJ IDEA<br>
+        ☕ <b>Language:</b> Kotlin First<br>
+        🎨 <b>Design:</b> Figma to Compose<br>
+        🚀 <b>Architecture:</b> MVVM + Clean Architecture<br>
+        🐈 <b>Reviewer:</b> My cats (sometimes)
+      </p>
+    </details>
+  </div>
 
   <br>
 
@@ -40,10 +61,9 @@
 
   <br><br><br>
 
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=GiovannaAmatucci&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" height="170" alt="Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannaAmatucci&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&langs_count=6" height="170" alt="Languages" />
-  </div>
+  <p align="center">
+    <img src="https://streak-stats.demolab.com/?user=GiovannaAmatucci&theme=dark&hide_border=true&ring=d570d1&fire=d570d1&currStreakNum=d570d1&currStreakLabel=d570d1&sideNums=d570d1&sideLabels=d570d1" alt="Streak Stats" />
+  </p>
 
   <br>
 
@@ -51,3 +71,5 @@
   <img src="github-contribution-grid-snake.svg" width="100%" alt="Snake Contribution Grid"/>
   
   <br><br>
+
+</div>
