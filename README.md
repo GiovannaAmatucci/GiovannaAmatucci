@@ -4,10 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=d570d1&center=true&vCenter=true&width=435&lines=Hello,+I'm+Giovanna!" alt="Typing SVG" />
   </a>
   <br><br>
-    
-   <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 1.3em; color: #ff986e; margin-bottom: 5px; font-weight: 600;">
-    Android Software Engineer
-  </p>
+    <h3 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; margin-bottom: 20px;">Android Software Engineer</h3>
   
   <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; color: #8b949e; margin-top: 0;">
     📍 Based in Brazil 🇧🇷
