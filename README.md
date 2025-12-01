@@ -54,7 +54,7 @@
   
   <br>
 
-<h3 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; margin-bottom: 20px;"> Creative Tech Stack:</h3>
+<h3 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; margin-bottom: 20px;">🛠️ Tech Stack</h3>
 <br><br>
   
   <a href="https://skillicons.dev">
@@ -69,7 +69,7 @@
 
   <br><br>
 
-  <h3 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; margin-bottom: 20px;">Contribution Graph:</h3>
+  <h3 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; margin-bottom: 20px;">🐍 Contribution Graph</h3>
   
   <img src="github-contribution-grid-snake.svg" width="100%" alt="Snake Contribution Grid"/>
   
