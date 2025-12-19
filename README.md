@@ -35,6 +35,8 @@
 </p>
 
 ### 🖥️ Technologies & Tools: 
+<img align="right" width="380px" src="https://github.com/user-attachments/assets/79fdf17f-e195-4e04-b424-b564e7d71b4e">
+
 <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="KOTLIN"/></code>
 <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="ANDROID"/></code>
 <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="JAVA"/></code>
@@ -43,10 +45,8 @@
 <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GITHUB"/></code>
 <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="FIGMA"/></code>
 <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="FIREBASE"/></code>
-<img width="400px" align="right" src="https://github.com/user-attachments/assets/79fdf17f-e195-4e04-b424-b564e7d71b4e">
-</br>
 
-<div align="left">
+</br>
   <br>
 
 <div align="left">
