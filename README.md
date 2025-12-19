@@ -35,7 +35,7 @@
 </p>
 
 ### 🖥️ Technologies & Tools: 
-<img align="right" width="380px" src="https://github.com/user-attachments/assets/79fdf17f-e195-4e04-b424-b564e7d71b4e">
+<img align="right" width="350px" src="https://github.com/user-attachments/assets/79fdf17f-e195-4e04-b424-b564e7d71b4e">
 
 <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="KOTLIN"/></code>
 <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="ANDROID"/></code>
