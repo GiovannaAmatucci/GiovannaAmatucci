@@ -54,8 +54,16 @@
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GiovannaAmatucci&show_icons=true&theme=tokyonight&title_color=d570d1&icon_color=d570d1&text_color=ffffff&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GiovannaAmatucci&layout=compact&langs_count=8&theme=tokyonight&title_color=d570d1&text_color=ffffff&hide_border=true" />
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GiovannaAmatucci&show_icons=true&theme=tokyonight&title_color=d570d1&icon_color=d570d1&text_color=ffffff&hide_border=true" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GiovannaAmatucci&layout=compact&langs_count=8&theme=tokyonight&title_color=d570d1&text_color=ffffff&hide_border=true" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
