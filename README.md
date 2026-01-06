@@ -22,7 +22,7 @@
 
 ## Hello, Devs!! 👋
 
-> I am a passionate **Android Software Engineer** dedicated to building scalable, high-performance mobile experiences. I'm a technology enthusiast who loves turning complex architectures into seamless user interfaces. Quando não estou resolvendo bugs, estou com meus gatos ou tomando um café! ☕️💜
+> I am a passionate **Android Software Engineer** dedicated to building scalable, high-performance mobile experiences. I'm a technology enthusiast who loves turning complex architectures into seamless user interfaces. When I'm not squashing bugs, I'm hanging out with my cats or enjoying a fresh cup of coffee! ☕️💜
 
 <p align="center">
   <img src="https://ead-ntm.itaipuparquetec.org.br/ntm/pluginfile.php/46751/mod_page/content/65/gif%20de%20gato.gif" width="350">
