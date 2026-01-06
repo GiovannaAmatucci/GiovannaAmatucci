@@ -9,9 +9,6 @@
 <br>
 <br>
 
-
-# Giovanna Amatucci
-
 <div>
   <a href="https://www.linkedin.com/in/giovanna-amatucci2001/">
     <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
