@@ -25,10 +25,14 @@
 > I am a passionate **Android Software Engineer** dedicated to building scalable, high-performance mobile experiences. I'm a technology enthusiast who loves turning complex architectures into seamless user interfaces. When I'm not squashing bugs, I'm hanging out with my cats or enjoying a fresh cup of coffee! ☕️💜
 
 <p align="center">
-  <img src="https://ead-ntm.itaipuparquetec.org.br/ntm/pluginfile.php/46751/mod_page/content/65/gif%20de%20gato.gif" width="350">
+  <br>
+  <br>
+  <img src="https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif" width="350">
 </p>
 
-### 🖥️ Technologies & Tools: 
+### 🖥️ Technologies & Tools
+<br>
+<br>
 
 <img align="right" width="350px" src="https://github.com/user-attachments/assets/79fdf17f-e195-4e04-b424-b564e7d71b4e">
 
@@ -66,6 +70,5 @@
   </table>
 </div>
 
-<div align="center">
-  <img src="github-contribution-grid-snake.svg" width="100%" alt="Snake Game"/>
-</div>
+### 🐍 Contribution Snake
+<img src="github-contribution-grid-snake.svg" width="100%" alt="Snake Game" style="margin-top: -40px; display: block;" />
