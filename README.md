@@ -1,61 +1,48 @@
-<img align="right" width="300px" style="margin-top:-20px" alt="image" src="https://github.com/user-attachments/assets/526fbcc6-ee24-47a9-9011-4179a6c0e37b" />
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+<img src="https://github.com/user-attachments/assets/526fbcc6-ee24-47a9-9011-4179a6c0e37b" width="250px" align="right" style="margin-left: 20px;">
+
+**Hi, I'm <a href="https://linkedin.com/in/giovanna-amatucci2001/"> Giovanna</a> !** 👋
+
+<img align="right" src="https://komarev.com/ghpvc/?username=GiovannaAmatucci&color=d570d1&style=flat-square" alt="Views counter">
+
+**Android Software Engineer | Kotlin Specialist**
+
+I specialize in building scalable, high-performance mobile experiences with a deep focus on **Clean Architecture** and **Modern UI**. I'm passionate about turning complex technical challenges into elegant, user-centric solutions.
+
 <br>
 
-<div>
-  <a href="https://www.linkedin.com/in/giovanna-amatucci2001/">
-    <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
-  </a>
-  <a href="mailto:giovannaamatucci@hotmail.com">
-    <img align="left" width="45px" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="Email" style="margin-left: 10px;">
-  </a> 
-</div>
+---
 
-<br><br><br>
+### 🛠️ Technical Ecosystem
 
-## Hello, Devs!! 👋
-
-> I am a passionate **Android Software Engineer** dedicated to building scalable, high-performance mobile experiences. I'm a technology enthusiast who loves turning complex architectures into seamless user interfaces. When I'm not squashing bugs, I'm hanging out with my cats or enjoying a fresh cup of coffee! ☕️💜
-
-<p align="center">
-  <br>
-  <br>
-  <img src="https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif" width="350">
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-121212?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
+  <img src="https://img.shields.io/badge/Android-121212?style=for-the-badge&logo=android&logoColor=3DDC84" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-121212?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4" />
+  <img src="https://img.shields.io/badge/Java-121212?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+  <img src="https://img.shields.io/badge/KMP-121212?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-121212?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
 </p>
 
-### 🖥️ Technologies & Tools
-<br>
-<br>
+<br/>
 
-<img align="right" width="350px" src="https://github.com/user-attachments/assets/79fdf17f-e195-4e04-b424-b564e7d71b4e">
+| 🏗️ Architecture | 🎨 UI/UX | 🚀 Future Tech |
+| :--- | :--- | :--- |
+| **Clean Architecture & SOLID** | **Jetpack Compose Expert** | **Kotlin Multiplatform (KMP)** |
+| Modularization Patterns | Material Design 3 | High-Performance Engineering |
+| Dependency Injection (Hilt/Koin) | State Management | Reactive Programming |
 
-<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="KOTLIN"/></code>
-<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="ANDROID"/></code>
-<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="JAVA"/></code>
-<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" title="INTELLIJ"/></code>
-<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="GIT"/></code>
-<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GITHUB"/></code>
-<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="FIGMA"/></code>
-<code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="FIREBASE"/></code>
+---
 
-<br><br>
+### 🔍 Current Focus
+- 📱 Refactoring mobile architectures for **maximum scalability**.
+- 🧪 Improving test coverage and **CI/CD pipelines**.
+- 🐕 Training **Scooby**, my high-energy Border Collie.
+- 🐈 Co-working with my two feline "code reviewers."
 
-<div align="left">
-  <p>🛠️ <b>Architectural Excellence:</b> Clean Architecture, SOLID, Modularization.</p>
-  <p>📱 <b>Modern UI Stack:</b> Jetpack Compose & State Management.</p>
-  <p>🌐 <b>Future Proofing:</b> Kotlin Multiplatform (KMP).</p>
-  <p>⚙️ <b>Performance First:</b> High-Performance Engineering.</p>
-  <p>🎮 <b>Beyond the Code:</b> Gamer offline.</p>
-</div>
+---
 
-<br>
+### 📊 GitHub Insights
 
 <div align="center">
   <table border="0">
@@ -70,5 +57,19 @@
   </table>
 </div>
 
-### 🐍 Contribution Snake
-<img src="github-contribution-grid-snake.svg" width="100%" alt="Snake Game" style="margin-top: -40px; display: block;" />
+---
+
+### 📫 Connect with me:
+
+<p align="left">
+  <a href="https://linkedin.com/in/giovanna-amatucci2001/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:giovannaamatucci@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Game" />
+</div>
