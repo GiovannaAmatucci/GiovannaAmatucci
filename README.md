@@ -1,6 +1,4 @@
 
-<img src="https://github.com/user-attachments/assets/526fbcc6-ee24-47a9-9011-4179a6c0e37b" width="250px" align="right" style="margin-left: 20px;">
-
 **Hi, I'm <a href="https://linkedin.com/in/giovanna-amatucci2001/"> Giovanna</a> !** 👋
 
 <img align="right" src="https://komarev.com/ghpvc/?username=GiovannaAmatucci&color=d570d1&style=flat-square" alt="Views counter">
